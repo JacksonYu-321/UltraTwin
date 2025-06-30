@@ -21,6 +21,3 @@ We are currently organizing the source code for the UltraTwin framework and will
   - Example notebooks demonstrating dataset usage and inference.  
 - **Stay Tuned**:  
   Follow this repository or check the [Zenodo dataset page](https://doi.org/10.5281/zenodo.15479554) for updates. We will announce the code release via a GitHub tag and dataset update.  
-
-
-  [![HitCount](https://hits.dwyl.com/MICCAI2025-875/UltraTwin.svg?style=flat-square&show=unique)](http://hits.dwyl.com/MICCAI2025-875/UltraTwin)
