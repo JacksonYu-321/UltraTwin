@@ -1,7 +1,7 @@
 # UltraTwin  
 We introduce a novel generative framework named UltraTwin, to obtain accurate 3D cardiac digital twin from sparse multi-view 2D US images.  
 
-[Click to play demo](https://MICCAI2025-875.github.io/UltraTwin/demo/video.html)  
+[Click to play demo](https://github.com/JacksonYu-321/UltraTwin/blob/main/demo/video.html)  
 
 
 ## Dataset Availability  
