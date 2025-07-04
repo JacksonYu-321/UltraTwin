@@ -6,6 +6,7 @@ We introduce a novel generative framework named UltraTwin, to obtain accurate 3D
 This work has been accepted by MICCAI2025. You can find the preprint on arXiv: [https://arxiv.org/abs/2506.23490](https://arxiv.org/abs/2506.23490)
 
 
+
 ## Dataset Availability  
 The anonymized multi-view ultrasound-CT paired dataset supporting this work has been released on **Zenodo**.  
 
